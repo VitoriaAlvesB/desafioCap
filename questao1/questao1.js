@@ -16,5 +16,5 @@ function calcmediana(){
 
 module.exports = {calcmediana}
 
-//console.log(ordena())
-//console.log(calcmediana())
+console.log(ordena())
+console.log(calcmediana())

@@ -11,4 +11,8 @@ function gridArea(){
   let tamText = text2.length;
   let raiz = Math.sqrt(tamText);
   tamGrid = Math.ceil(raiz)
+
+  console.log(tamText,raiz,tamGrid)
 }
+
+console.log(espacoOff(), gridArea())
